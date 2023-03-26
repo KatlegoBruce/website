@@ -1,1 +1,1 @@
-# website
+# *Django* *Boilerplate* *Project*
